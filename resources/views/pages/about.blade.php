@@ -24,10 +24,10 @@
         <h1>Build with &hearts; Pl@cid</h1>
 
         
-        <p>It's currently {{ date('h:i A') }} </p>
+        <p><a href="/">Revenir à la page d'accueil</a> </p>
 
         <footer>
-            <p>&copy; Copyright {{ date('Y') }} &middot; <a href="/">Mome Page</a> </p>
+            <p>&copy; Copyright {{ date('Y') }}   </p>
         </footer>
     </body>
 </html>
