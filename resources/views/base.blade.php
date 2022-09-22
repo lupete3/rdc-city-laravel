@@ -26,7 +26,7 @@
         <footer>
             <p>
                 &copy; Copyright {{ date('Y') }} &middot; 
-                @if(! Route::is('home'))
+                @if(! Route::is('about'))
                     <a href="{{route('about')}}">About us</a>
                 @endif
             </p>
