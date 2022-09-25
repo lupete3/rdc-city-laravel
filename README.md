@@ -1,3 +1,3 @@
 #My City
 
-This application applyed the current date 
+Laravel application that displayes the current time in your city
