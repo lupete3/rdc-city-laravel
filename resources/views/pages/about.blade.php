@@ -1,6 +1,4 @@
-@extends('base')
-
-@section('title',' About Us | '. config('app.name'))
+@extends('layouts/base' , ['pageTitle' => 'About Us '])
    
 @section('content')
 
